@@ -17,6 +17,7 @@ public class Main {
 	{
 		System.out.println("Sales report 2019");
 		System.out.println("Test1");
+		System.out.println("Test2");
 	}
 	
 	
