@@ -16,6 +16,7 @@ public class Main {
 	private static void displayGreeting()
 	{
 		System.out.println("Sales report 2019");
+		System.out.println("Test1");
 	}
 	
 	
